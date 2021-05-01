@@ -39,3 +39,5 @@ so the number of elements, elements, and score
   It suports: +, -, !, ^, / (only if result is an integer),and C (newton's binomial)
   
   The result **MUST** be an integer
+  
+  I don't plan to further expand this project, how it's working now fully satisfy me, as it beats humans in most of the cases.
