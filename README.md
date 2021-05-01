@@ -36,7 +36,7 @@ so the number of elements, elements, and score
   
   The progress from each core will be displayed once in a while. 
   
-  It suports: +, -, !, ^, / (only if result is an integer),and C (newton's binomial)
+  It suports: +, -, !, ^, / (only if result is an integer), !! (double factorial, which is just a product of numbers of the same parity, 4!! = 2 * 4, 5!! = 5 * 3), and C (newton's binomial)
   
   The result **MUST** be an integer
   
